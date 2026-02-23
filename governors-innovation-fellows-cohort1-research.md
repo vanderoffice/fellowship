@@ -68,7 +68,7 @@ Fellows are selected based on:
 | Field | Details |
 |-------|---------|
 | **Title** | Natural and Working Lands Policy Advisor |
-| **Department** | Department of Water Resources (DWR) |
+| **Department** | Natural Resources Agency |
 | **Agency** | California Natural Resources Agency |
 
 **Background:**
@@ -542,7 +542,7 @@ Fellows are selected based on:
 
 | Fellow | Department | Title |
 |--------|------------|-------|
-| Elizabeth Betancourt | Department of Water Resources (DWR) | Natural and Working Lands Policy Advisor |
+| Elizabeth Betancourt | Natural Resources Agency | Natural and Working Lands Policy Advisor |
 | Nikki Hatcher | Department of Water Resources (DWR) | Contracts and Procurement Services Branch Manager |
 
 ### California State Transportation Agency (3 Fellows)
