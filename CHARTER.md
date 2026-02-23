@@ -64,7 +64,7 @@ The Governor's Innovation Fellows Program was established under **[Executive Ord
 | SMSgt Blake E. Carter | CA Air National Guard | **Military Department** |
 | Jai London | Military Department | **Military Department** |
 | SSgt Kelton Pisano | Military Department | **Military Department** |
-| Elizabeth Betancourt | Dept. of Water Resources | **Natural Resources** |
+| Elizabeth Betancourt | Natural Resources Agency | **Natural Resources** |
 | Nikki Hatcher | Dept. of Water Resources | **Natural Resources** |
 | Samantha Kissane | CDCR | **Corrections & Rehabilitation** |
 | Chris Siino | CDCR | **Corrections & Rehabilitation** |
