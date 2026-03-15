@@ -1,7 +1,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 <p align="center">
-  <img src="assets/fellows-logo-banner.jpg" alt="Governor's Innovation Fellows" width="600">
+  <img src="assets/fellows-banner-v4.jpg" alt="Governor's Innovation Fellows" width="600">
 </p>
 
 **Cohort 1 Knowledge Repository**
