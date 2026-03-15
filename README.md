@@ -1,6 +1,8 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# Governor's Innovation Fellows Program
+<p align="center">
+  <img src="assets/fellows-logo-banner.jpg" alt="Governor's Innovation Fellows" width="800">
+</p>
 
 **Cohort 1 Knowledge Repository**
 
